@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Miel Villyn
 - 👀 I’m interested in ...
 - 🌱 I’m currently a student Energymanagement
+- Member since March 16 2023
 
 <!---
 Miel-Villyn/Miel-Villyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
