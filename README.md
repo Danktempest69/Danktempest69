@@ -5,7 +5,7 @@
 - 🧑‍💻 I mainly know python
 - 🧑‍💻 learning C#
 - 🧑‍💻 learing C/C++
-- I have plans of learning JAVASCRIPT
+- I might have plans of learning JAVASCRIPT
 
 <!---
 Miel-Villyn/Miel-Villyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
