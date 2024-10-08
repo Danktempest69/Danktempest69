@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danktempest
-- 👀 I’m interested in ...
+- 👀 I’m interested in the cold emptyness of the VOID
 - 🌱 I’m currently a student Energymanagement
 - Member since March 16 2023
 - 🧑‍💻 I mainly know python
