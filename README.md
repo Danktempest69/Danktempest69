@@ -4,7 +4,7 @@
 - Member since March 16 2023
 - 🧑‍💻 I mainly know python
 - 🧑‍💻 learning C#
-- 🧑‍💻 learing C/C++
+- 🧑‍💻 planing to learn C/C++
 - I might have plans of learning JAVASCRIPT
 
 <!---
