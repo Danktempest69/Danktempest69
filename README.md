@@ -21,7 +21,7 @@
   Project IMU-FBT
 </div>
 <div class="project">
-  a fully custom implimentation of Full Body Tracking for a VRChat using IMU's (Inerial Mesurement Unit) to send data over OSC (Open Sound Controll) to the game.
+  a fully custom implimentation of Full Body Tracking for VRChat using IMU's (Inerial Mesurement Unit) to send data over OSC (Open Sound Controll) to the game.
 </div>
 
 <!---
