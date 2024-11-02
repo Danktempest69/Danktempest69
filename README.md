@@ -7,7 +7,7 @@
 - 🧑‍💻 planing to learn C/C++
 - I might have plans of learning JAVASCRIPT
 
-#Project IMU-FBT
+Project IMU-FBT
 
 a fully custom implimentation of Full Body Tracking for VRChat using IMU's (Inerial Mesurement Unit) to send data over OSC (Open Sound Controll) to the game.
 
