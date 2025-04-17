@@ -4,10 +4,12 @@
 - Member since March 16 2023
 - 🧑‍💻 I mainly know python
 - 🧑‍💻 learning C#
+- 🧑‍💻 learing Rust
 - 🧑‍💻 planing to learn C/C++
 - I might have plans of learning JAVASCRIPT
 
-Project IMU-FBT
+# projects in the working
+## 1.Project IMU-FBT
 
 a fully custom implimentation of Full Body Tracking for VRChat using IMU's (Inerial Mesurement Unit) to send data over OSC (Open Sound Controll) to the game.
 
