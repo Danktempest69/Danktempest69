@@ -5,7 +5,7 @@
 - 🧑‍💻 I mainly know python
 - 🧑‍💻 learning C#
 - 🧑‍💻 learing Rust
-- 🧑‍💻 planing to learn C/C++
+- 🧑‍💻 planing to learn C and C++
 - I might have plans of learning JAVASCRIPT
 
 # projects in the working
