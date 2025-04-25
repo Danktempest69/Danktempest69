@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Danktempest69
 - 👀 I’m interested in the cold emptyness of the VOID
 - 🌱 I’m currently a student Energymanagement
-- Internship: Brouwerij De Halve Maan, Walplein 26 B-8000 Brugge
+- Internship: Brouwerij De Halve Maan, Walplein 26 B-8000 Brugge Belgium
 - Member since March 16 2023
 - 🧑‍💻 I mainly know python
 - 🧑‍💻 learning C#
