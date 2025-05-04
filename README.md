@@ -14,6 +14,10 @@
 
 a fully custom implimentation of Full Body Tracking for VRChat using IMU's (Inerial Mesurement Unit) to send data over OSC (Open Sound Controll) to the game.
 
+## 2.Internship
+
+making a program that handels the obfuscation of pruduction data by creating KPI's to get a better view on the efficiëntie of the proccess.
+
 <!---
 Danktempest69/Danktempest69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
