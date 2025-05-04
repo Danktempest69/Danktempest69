@@ -7,7 +7,7 @@
 - 🧑‍💻 learning C#
 - 🧑‍💻 learing Rust
 - 🧑‍💻 planing to learn C and C++
-- I might have plans of learning JAVASCRIPT
+- I might have plans of learning JAVASCRIPT and JAVA
 
 # projects in the working
 ## 1.Project IMU-FBT
