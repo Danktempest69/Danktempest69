@@ -16,7 +16,7 @@ A fully custom implimentation of Full Body Tracking for VRChat using IMU's (Iner
 
 ## 2.Internship
 
-Making a program that handels creating KPI's to get a better view on the efficiëntie of a proccess.
+Making a program that handels creating KPI's to get a better view on the efficiëncy of a proccess.
 
 ## 3.Project Autostart
 
